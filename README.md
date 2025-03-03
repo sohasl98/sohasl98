@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Penetration Testing**
 
-- 👨‍💻 All of my projects are available at [https://sohaim-aslam-a6b72a.netlify.app/](https://sohaim-aslam-a6b72a.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sohaim-aslam-a6b72a.netlify.app/](https://sohaim-aslam.netlify.app/)
 
 - 📝 I regularly write articles on [https://theredsec.wordpress.com](https://theredsec.wordpress.com)
 
