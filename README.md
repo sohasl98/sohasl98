@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/sohaim_aslam" target="blank"><img src="https://img.shields.io/twitter/follow/sohaim_aslam?logo=twitter&style=for-the-badge" alt="sohaim_aslam" /></a> </p>
 
-- 🔭 I’m currently working on **Wireshark**
-
 - 🌱 I’m currently learning **Python, Java**
 
 - 👯 I’m looking to collaborate on **Red Team**
 
 - 🤝 I’m looking for help with **Penetration Testing**
 
-- 👨‍💻 All of my projects are available at [https://sohaim-aslam.netlify.app/](https://sohaim-aslam.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/sohasl98/](https://github.com/sohasl98/)
 
 - 📝 I regularly write articles on [https://theredsec.wordpress.com](https://theredsec.wordpress.com)
+
+- 📝 View my portfolio at [https://sohaim-aslam.netlify.app](https://sohaim-aslam.netlify.app)
 
 - 💬 Ask me about **Cybersecurity**
 
