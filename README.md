@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **Penetration Testing**
 
-- 📝 View my portfolio at [https://sohaim-aslam.netlify.app](https://sohaim-aslam.netlify.app)
-
 - 💬 Ask me about **Cybersecurity**
 
 - 📫 How to reach me **sohaimaslam334@gmail.com**
+
+- 📝 View my portfolio at [https://sohaim-aslam.netlify.app](https://sohaim-aslam.netlify.app)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sohaim-aslam-090349173/](https://www.linkedin.com/in/sohaim-aslam-090349173/)
 
