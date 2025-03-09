@@ -13,10 +13,6 @@
 
 - 🤝 I’m looking for help with **Penetration Testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sohasl98/](https://github.com/sohasl98/)
-
-- 📝 I regularly write articles on [https://theredsec.wordpress.com](https://theredsec.wordpress.com)
-
 - 📝 View my portfolio at [https://sohaim-aslam.netlify.app](https://sohaim-aslam.netlify.app)
 
 - 💬 Ask me about **Cybersecurity**
