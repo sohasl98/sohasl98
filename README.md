@@ -21,13 +21,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sohasl98](https://www.linkedin.com/in/sohasl98)
 
-- ⚡ Fun fact **I am a linux user and I like troubleshooting**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sohasl98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sohasl98" height="30" width="40" /></a>
 <a href="https://twitter.com/sohaim_aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohaim_aslam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sohaim-aslam-090349173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohaim-aslam-090349173" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sohasl98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohaim-aslam-090349173" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27405158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27405158" height="30" width="40" /></a>
 </p>
 
