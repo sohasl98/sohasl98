@@ -19,7 +19,7 @@
 
 - 📝 View my portfolio at [https://sohaim-aslam.netlify.app](https://sohaim-aslam.netlify.app)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sohaim-aslam-090349173/](https://www.linkedin.com/in/sohaim-aslam-090349173/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sohaim-aslam-090349173/](https://www.linkedin.com/in/sohasl98)
 
 - ⚡ Fun fact **I am a linux user and I like troubleshooting**
 
